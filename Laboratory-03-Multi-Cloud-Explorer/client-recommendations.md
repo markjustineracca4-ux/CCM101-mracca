@@ -1,6 +1,6 @@
 # Cloud Solutions Consultant Recommendations
 
-## Client Scenarios & Strategic Recommendations
+## Client Scenarios & Strategic Recommendations 
 
 ### Client A — Startup Company
 * **Context:** Mobile application startup with a limited initial budget and expected rapid user growth.
