@@ -10,9 +10,3 @@ Acting as a Cloud Solutions Consultant taught me that business requirements—ra
 
 This laboratory assignment significantly elevated the quality of my GitHub portfolio. By documenting structured comparative matrices, cloud service mappings, and real-world client recommendations directly in Markdown, my repository now serves as tangible evidence of my cloud architecture literacy, technical writing capability, and practical problem-solving skills.
 
----
-
-## References
-* AWS Official Documentation: https://aws.amazon.com/
-* Microsoft Azure Documentation: https://learn.microsoft.com/en-us/azure/
-* Google Cloud Documentation: https://cloud.google.com/docs/
