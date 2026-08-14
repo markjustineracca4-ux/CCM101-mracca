@@ -31,6 +31,6 @@ I would personally choose **Google Cloud Platform (GCP)** because of its develop
 ---
 
 ## References
-* Amazon Web Services Documentation: https://aws.amazon.com/documentation/
+* AWS Official Documentation: https://aws.amazon.com/documentation/
 * Microsoft Azure Documentation: https://learn.microsoft.com/en-us/azure/
-* Google Cloud Documentation: https://cloud.google.com/docs
+* Google Cloud Documentation: https://cloud.google.com/docs/
