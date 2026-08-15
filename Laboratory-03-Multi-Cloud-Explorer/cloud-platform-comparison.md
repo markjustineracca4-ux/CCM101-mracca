@@ -5,10 +5,10 @@
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 | :--- | :--- | :--- | :--- |
 | **Launch Year** | 2006 | 2010 | 2008 |
-| **Compute Service** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
-| **Storage Service** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
-| **Networking Service** | Amazon VPC | Azure Virtual Network | Cloud VPC |
-| **Identity Service** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **Compute Service** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine (GCE) |
+| **Storage Service** | Amazon S3 | Azure Blob Storage | Google Cloud Storage (GCS) |
+| **Networking Service** | Amazon VPC | Azure Virtual Network | Google Cloud VPC |
+| **Identity Service** | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
 | **Primary Strength** | Market maturity & service breadth | Enterprise Microsoft integration | Data analytics, AI & Kubernetes |
 | **Ideal Organizations** | Startups to global enterprises | Microsoft-centric enterprises | Cloud-native & data-driven companies |
 
@@ -18,9 +18,9 @@
 
 | Service Category | AWS | Microsoft Azure | Google Cloud Platform |
 | :--- | :--- | :--- | :--- |
-| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
-| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
-| **Identity Management** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine (GCE) |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage (GCS) |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
 | **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
 | **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
 
@@ -43,6 +43,7 @@ I would personally choose Google Cloud Platform (GCP) due to its superior contai
 ---
 
 ## References
+
 - AWS Documentation: https://docs.aws.amazon.com/
 - Microsoft Azure Documentation: https://learn.microsoft.com/azure/
 - Google Cloud Documentation: https://cloud.google.com/docs
