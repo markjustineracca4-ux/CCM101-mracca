@@ -13,16 +13,18 @@
 | **Ideal Organizations** | Startups to global enterprises | Microsoft-centric enterprises | Cloud-native & data-driven companies |
 
 ---
+cat << 'EOF' >> ~/CCM101-mracca/Laboratory-03-Multi-Cloud-Explorer/cloud-platform-comparison.md
 
-## Checkpoint 5: Equivalent Cloud Services
+## Checkpoint 5: Service Matching Table
 
-| Service Category | AWS | Microsoft Azure | Google Cloud Platform |
+| Core Service Category | AWS Service | Azure Service | GCP Service |
 | :--- | :--- | :--- | :--- |
-| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine (GCE) |
-| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage (GCS) |
-| **Identity Management** | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID (Azure AD) | Cloud IAM |
 | **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
 | **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+EOF
 
 ---
 
