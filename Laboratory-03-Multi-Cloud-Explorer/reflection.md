@@ -1,3 +1,4 @@
+cat << 'EOF' > ~/CCM101-mracca/Laboratory-03-Multi-Cloud-Explorer/reflection.md
 # Mission 3: Multi-Cloud Explorer — Reflection
 
 Completing Laboratory Activity 3 provided valuable insights into the cloud computing ecosystem through the perspective of a Cloud Solutions Consultant.
@@ -11,3 +12,4 @@ Business requirements heavily influence cloud platform selection. An organizatio
 Acting as a Cloud Solutions Consultant taught me that technical decisions must align directly with strategic business objectives. A cloud architect must evaluate trade-offs between implementation speed, operational cost, service maturity, and cloud lock-in rather than simply selecting a single vendor.
 
 Finally, my GitHub Cloud Computing Portfolio has improved significantly throughout this mission. Maintaining structured Markdown documentation, integrating clear visual evidence, and organizing multi-cloud comparative analyses have transformed my repository into a professional technical showcase. This hands-on process reinforced the importance of clear documentation standards and version control in modern cloud engineering workflows.
+EOF
