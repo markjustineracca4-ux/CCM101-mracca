@@ -1,36 +1,48 @@
-# Cloud Platform Comparison Matrix
+# Major Cloud Platforms Comparison
 
-## Major Cloud Providers Overview
+## Cloud Platform Comparison Table
 
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 | :--- | :--- | :--- | :--- |
 | **Launch Year** | 2006 | 2010 | 2008 |
-| **Compute Service** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine (GCE) |
-| **Storage Service** | Amazon S3 | Azure Blob Storage | Google Cloud Storage (GCS) |
-| **Networking Service** | Amazon VPC | Azure Virtual Network (VNet) | Google Virtual Private Cloud (VPC) |
-| **Identity Service** | AWS IAM | Microsoft Entra ID (Azure AD) | Google Cloud IAM |
-| **Primary Strength** | Broadest catalog, market maturity & massive global footprint | Enterprise integration & hybrid cloud capability | Advanced AI/ML, data analytics & native Kubernetes orchestration |
-| **Ideal Organizations** | Startups to global enterprises needing scalable infrastructure | Large enterprises heavily reliant on Microsoft ecosystem | Data-driven startups, AI tech firms & cloud-native architectures |
+| **Compute Service** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| **Storage Service** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| **Networking Service** | Amazon VPC | Azure Virtual Network | Cloud VPC |
+| **Identity Service** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **Primary Strength** | Market maturity & service breadth | Enterprise Microsoft integration | Data analytics, AI & Kubernetes |
+| **Ideal Organizations** | Startups to global enterprises | Microsoft-centric enterprises | Cloud-native & data-driven companies |
+
+---
+
+## Checkpoint 5: Equivalent Cloud Services
+
+| Service Category | AWS | Microsoft Azure | Google Cloud Platform |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
 
 ---
 
 ## Analysis Questions
 
 ### 1. Which cloud provider offers the broadest range of services?
-Amazon Web Services (AWS) offers the broadest range of cloud services in the market today. As the pioneer of public cloud infrastructure since 2006, AWS boasts over 200 fully featured services ranging from basic compute to niche specialized enterprise tools. This maturity ensures that nearly any infrastructure edge-case can be solved natively on AWS.
+Amazon Web Services (AWS) offers the broadest range of services with over 200 fully featured offerings. Its head start in the cloud market allowed it to develop a mature ecosystem covering compute, storage, databases, machine learning, and specialized enterprise services.
 
 ### 2. Which provider best integrates with Microsoft technologies?
-Microsoft Azure provides the most seamless integration for organizations running Microsoft technologies. It natively connects with tools like Active Directory (Microsoft Entra ID), Office 365, and Windows Server environments without friction. Furthermore, features like Azure Hybrid Benefit make it exceptionally cost-effective for existing Microsoft licensees.
+Microsoft Azure provides the most seamless integration with Microsoft technologies. Organizations leveraging Windows Server, Active Directory, SQL Server, and Microsoft 365 benefit from native identity integration and cost-effective hybrid licensing options via Azure.
 
 ### 3. Which provider is strongest in Artificial Intelligence and Kubernetes?
-Google Cloud Platform (GCP) is the strongest contender in Artificial Intelligence and Kubernetes orchestration. Having originally created Kubernetes internally, GCP offers the most mature managed Kubernetes solution with Google Kubernetes Engine (GKE). Additionally, its Vertex AI platform and custom Cloud TPUs give it a massive edge in machine learning workloads.
+Google Cloud Platform (GCP) demonstrates leading strength in Artificial Intelligence and Kubernetes deployment. As the original creator of Kubernetes, GCP provides a highly optimized environment through Google Kubernetes Engine (GKE) alongside advanced AI tools like BigQuery and Vertex AI.
 
 ### 4. Which cloud platform would you personally choose and why?
-I would personally choose **Google Cloud Platform (GCP)** because of its developer-friendly tooling, modern UI, and leadership in containerization and AI/ML technologies. Its native support for Kubernetes (GKE) and high-speed global fiber network make it ideal for modern, cloud-native application deployment and data-driven projects.
+I would personally choose Google Cloud Platform (GCP) due to its superior container management with GKE and developer-friendly data analytics tools. Its modern, project-centric organization and global private network make it an ideal choice for cloud-native application development.
 
 ---
 
 ## References
-* AWS Official Documentation: https://aws.amazon.com/documentation/
-* Microsoft Azure Documentation: https://learn.microsoft.com/en-us/azure/
-* Google Cloud Documentation: https://cloud.google.com/docs/
+- AWS Documentation: https://docs.aws.amazon.com/
+- Microsoft Azure Documentation: https://learn.microsoft.com/azure/
+- Google Cloud Documentation: https://cloud.google.com/docs
