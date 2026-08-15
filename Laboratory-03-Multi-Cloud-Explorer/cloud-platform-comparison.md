@@ -18,7 +18,7 @@
 
 | Service Category | AWS | Microsoft Azure | Google Cloud Platform |
 | :--- | :--- | :--- | :--- |
-| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine (GCE) | 
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine (GCE) |
 | **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage (GCS) |
 | **Identity Management** | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
 | **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
