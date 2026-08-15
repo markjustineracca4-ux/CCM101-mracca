@@ -13,7 +13,6 @@
 | **Ideal Organizations** | Startups to global enterprises | Microsoft-centric enterprises | Cloud-native & data-driven companies |
 
 ---
-cat << 'EOF' >> ~/CCM101-mracca/Laboratory-03-Multi-Cloud-Explorer/cloud-platform-comparison.md
 
 ## Checkpoint 5: Service Matching Table
 
