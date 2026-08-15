@@ -48,3 +48,13 @@ I would personally choose Google Cloud Platform (GCP) due to its superior contai
 - AWS Documentation: https://docs.aws.amazon.com/
 - Microsoft Azure Documentation: https://learn.microsoft.com/azure/
 - Google Cloud Documentation: https://cloud.google.com/docs
+
+## Checkpoint 5: Service Matching Table
+
+| Core Service Category | AWS Service | Azure Service | GCP Service |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID (Azure AD) | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
